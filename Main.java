@@ -11,6 +11,10 @@ class Main{
         } else {
             System.out.println("Можно лучше");
         }
+        boolean laba_finished = true;
 
+        if (laba_finished){
+            System.out.println("FINAL LABA");
+        };
     }
 }
